@@ -1,0 +1,6 @@
+.DS_Store
+aclImdb_v1.tar.gz
+logs
+aclImdb
+metadata.tsv
+vectors.tsv
